@@ -111,10 +111,10 @@ header .icon i{
 }
 @keyframes image{
     0%{
-        background-image: url('image/slider.webp');
+        background-image: url('slider.webp');
     }
     100%{
-        background-image: url('image/slider0.webp');
+        background-image: url('slider0.webp');
     }
 }
 .home .detail h1{
